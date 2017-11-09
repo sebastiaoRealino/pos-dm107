@@ -23,4 +23,4 @@ $ php -S localhost:8080 -t public public/index.php
 **_you do not need to install apache server (or put the project in the hpdocs folder of xampp). Just run the above command_**.
 
 ### Documentation
- - [Go to repository github wiki ](https://github.com/sebastiaoRealino/pos-dm107/wiki)
+ - [Go to repository github wiki ](https://github.com/sebastiaoRealino/pos-dm107/wiki/Documentation)
